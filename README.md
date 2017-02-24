@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+You will make a tasty treat :)
